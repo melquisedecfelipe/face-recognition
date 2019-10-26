@@ -1,4 +1,4 @@
-<h1 align="center">Reconhecimento facial</h1>
+<h1 align="center">Reconhecimento Facial</h1>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/melquisedecfelipe/aps-reconhecimento.svg">
