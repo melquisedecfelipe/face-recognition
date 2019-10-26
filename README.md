@@ -48,8 +48,7 @@ $ pip install face_recognition
 $ pip install opencv-python
 
 # Run script
-$ chmod 777 reconhecimento.py
-$ ./reconhecimento.py
+$ python reconhecimento.py
 ```
 
 ## :memo: License
