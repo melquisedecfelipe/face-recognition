@@ -34,7 +34,7 @@ This project was developed with the following technologies:
 
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Pip](https://pip.pypa.io/) or higher installed on your computer. From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Pip](https://pip.pypa.io/) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
