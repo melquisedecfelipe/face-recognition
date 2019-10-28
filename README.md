@@ -1,21 +1,21 @@
 <h1 align="center">Reconhecimento Facial</h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/melquisedecfelipe/aps-reconhecimento.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/melquisedecfelipe/reconhecimento-facial.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/melquisedecfelipe/aps-reconhecimento.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/melquisedecfelipe/reconhecimento-facial.svg">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/melquisedecfelipe/aps-reconhecimento.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/melquisedecfelipe/reconhecimento-facial.svg">
 
-  <a href="https://github.com/melquisedecfelipe/aps-reconhecimento/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/melquisedecfelipe/aps-reconhecimento.svg">
+  <a href="https://github.com/melquisedecfelipe/reconhecimento-facial/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/melquisedecfelipe/reconhecimento-facial.svg">
   </a>
 
-  <a href="https://github.com/melquisedecfelipe/aps-reconhecimento/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/melquisedecfelipe/aps-reconhecimento.svg">
+  <a href="https://github.com/melquisedecfelipe/reconhecimento-facial/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/melquisedecfelipe/reconhecimento-facial.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/melquisedecfelipe/aps-reconhecimento.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/melquisedecfelipe/reconhecimento-facial.svg">
 </p>
 
 <p align="center">
@@ -38,10 +38,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Pip]
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/melquisedecfelipe/aps-reconhecimento
+$ git clone https://github.com/melquisedecfelipe/reconhecimento-facial
 
 # Go into the repository
-$ cd aps-reconhecimento
+$ cd reconhecimento-facial
 
 # Install dependencies
 $ pip install face_recognition
@@ -52,7 +52,7 @@ $ python reconhecimento.py
 ```
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/melquisedecfelipe/aps-reconhecimento/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/melquisedecfelipe/reconhecimento-facial/blob/master/LICENSE) for more information.
 
 ---
 
