@@ -9,22 +9,16 @@ video_capture = cv2.VideoCapture(0)
 bolsonaro_image = face_recognition.load_image_file("src/bolsonaro.jpeg")
 bolsonaro_face_encoding = face_recognition.face_encodings(bolsonaro_image)[0]
 
-bruno_image = face_recognition.load_image_file("src/bruno.jpg")
-bruno_face_encoding = face_recognition.face_encodings(bruno_image)[0]
-
-# Load a second sample picture and learn how to recognize it.
 melqui_image = face_recognition.load_image_file("src/melqui.jpeg")
 melqui_face_encoding = face_recognition.face_encodings(melqui_image)[0]
 
 # Create arrays of known face encodings and their names
 known_face_encodings = [
     bolsonaro_face_encoding,
-    bruno_face_encoding,
     melqui_face_encoding
 ]
 known_face_names = [
-    "Bolsoniro",
-    "Bruno",
+    "Biroliro",
     "Melqui"
 ]
 

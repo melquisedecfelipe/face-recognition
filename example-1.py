@@ -21,7 +21,7 @@ for face_landmarks in face_landmarks_list:
 
     # Let's trace out each facial feature in the image with a line!
     for facial_feature in face_landmarks.keys():
-        d.line(face_landmarks[facial_feature], width=5)
+        d.line(face_landmarks[facial_feature], width=2)
 
 # Show the picture
 pil_image.show()
