@@ -40,12 +40,8 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Pip]
 # Clone this repository
 $ git clone https://github.com/melquisedecfelipe/reconhecimento-facial
 
-# Go into the repository
-$ cd reconhecimento-facial
-
-# Install dependencies
-$ pip install face_recognition
-$ pip install opencv-python
+# Go into the repository and install dependencies
+$ cd reconhecimento-facial && pip install opencv-python face_recognition
 
 # Run script
 $ python reconhecimento.py
