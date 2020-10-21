@@ -44,7 +44,7 @@ $ git clone https://github.com/melquisedecfelipe/face-recognition
 $ cd face-recognition && pip install opencv-python face_recognition
 
 # Run script
-$ python reconhecimento.py
+$ python example-1.py
 ```
 
 ## :memo: License
