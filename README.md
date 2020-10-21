@@ -1,21 +1,21 @@
 <h1>Face Recognition</h1>
 
 <p>
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/melquisedecfelipe/reconhecimento-facial.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/melquisedecfelipe/face-recognition.svg">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/melquisedecfelipe/reconhecimento-facial.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/melquisedecfelipe/face-recognition.svg">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/melquisedecfelipe/reconhecimento-facial.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/melquisedecfelipe/face-recognition.svg">
 
   <a href="https://github.com/melquisedecfelipe/reconhecimento-facial/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/melquisedecfelipe/reconhecimento-facial.svg">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/melquisedecfelipe/face-recognition.svg">
   </a>
 
   <a href="https://github.com/melquisedecfelipe/reconhecimento-facial/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/melquisedecfelipe/reconhecimento-facial.svg">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/melquisedecfelipe/face-recognition.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/melquisedecfelipe/reconhecimento-facial.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/melquisedecfelipe/face-recognition.svg">
 </p>
 
 <p>
@@ -38,17 +38,17 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Pip]
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/melquisedecfelipe/reconhecimento-facial
+$ git clone https://github.com/melquisedecfelipe/face-recognition
 
 # Go into the repository and install dependencies
-$ cd reconhecimento-facial && pip install opencv-python face_recognition
+$ cd face-recognition && pip install opencv-python face_recognition
 
 # Run script
 $ python reconhecimento.py
 ```
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/melquisedecfelipe/reconhecimento-facial/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/melquisedecfelipe/face-recognition/blob/master/LICENSE) for more information.
 
 ---
 
